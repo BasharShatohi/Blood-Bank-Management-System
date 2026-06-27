@@ -80,16 +80,4 @@ Blood Bank Management System - Database Design Project | Complete ERD, Relationa
 
 ---
 
-### **Short Description (لـ GitHub Repo)**
 
-**English:**
-"Database design project for a Blood Bank Management System. Includes complete ERD, relational algebra operations, and SQL queries for managing donors, donations, medical exams, and hospital requests."
-
-**Arabic:**
-"مشروع قواعد بيانات لبنك دم - يحتوي على مخطط ERD كامل، الجبر العلاقاتي، واستعلامات SQL."
-
----
-
-**هل تريد تعديل أي جزء** قبل رفعه؟ (مثل إضافة تقنيات معينة أو تفاصيل إضافية)
-
-أرسل "جاهز" وسأعطيك تعليمات رفع هذا المشروع.
